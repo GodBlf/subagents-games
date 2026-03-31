@@ -1,0 +1,4 @@
+interface:
+  display_name: "Werewolf Game Reset"
+  short_description: "Reset files for a fresh werewolf match"
+  default_prompt: "Use $werewolf-game-reset to rebuild the public/private game files, including the moderator night log, for a fresh werewolf match."

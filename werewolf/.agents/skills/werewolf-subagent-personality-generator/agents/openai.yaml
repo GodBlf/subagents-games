@@ -1,0 +1,4 @@
+interface:
+  display_name: "Werewolf Personality Generator"
+  short_description: "Generate unique werewolf-agent personalities"
+  default_prompt: "Use $werewolf-subagent-personality-generator to assign distinct detailed personalities to all werewolf subagents for this game."
